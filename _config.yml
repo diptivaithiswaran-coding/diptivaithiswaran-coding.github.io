@@ -1,0 +1,55 @@
+title: "Dipti Vaithiswaran | Product Strategy & Management"
+name: "Dipti Vaithiswaran"
+description: "Product strategy, product management, and customer insight."
+url: "https://diptivaithiswaran-coding.github.io"
+baseurl: ""
+email: "dipti_vaithiswaran@berkeley.edu"
+
+markdown: kramdown
+permalink: pretty
+
+navigation:
+  - label: Home
+    url: /
+  - label: About
+    url: /about/
+  - label: Work Experience
+    url: /work-experience/
+  - label: Contact
+    url: /contact/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+exclude:
+  - PLAN.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .git
+  - .gitignore
+  - .replit
+  - .replitignore
+  - .conversation
+  - .local
+  - .agents
+  - .cache
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - attached_assets
+  - artifacts
+  - lib
+  - scripts
+  - node_modules
+  - package.json
+  - pnpm-lock.yaml
+  - pnpm-workspace.yaml
+  - replit.md
+  - tsconfig.base.json
+  - tsconfig.json

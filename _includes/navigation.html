@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Dipti Vaithiswaran, home">
+      <span class="wordmark-mark" aria-hidden="true">D</span>
+      <span>Dipti Vaithiswaran</span>
+    </a>
+    <nav class="site-nav" aria-label="Main navigation">
+      {% for item in site.navigation %}
+        <a
+          href="{{ item.url | relative_url }}"
+          {% if page.url == item.url %}aria-current="page"{% endif %}
+        >{{ item.label }}</a>
+      {% endfor %}
+    </nav>
+    <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false">
+      <span class="theme-toggle-icon" aria-hidden="true"></span>
+      <span data-theme-label>Dark theme</span>
+    </button>
+  </div>
+</header>
