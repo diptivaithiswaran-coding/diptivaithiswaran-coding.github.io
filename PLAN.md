@@ -47,4 +47,4 @@ Create Dipti Vaithiswaran’s personal portfolio as a static Jekyll site for the
 
 ## Approval gate
 
-Do not begin implementation until Dipti approves this plan.
+The user approved this plan before implementation.

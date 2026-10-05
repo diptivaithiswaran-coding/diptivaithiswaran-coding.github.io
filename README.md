@@ -15,28 +15,37 @@ A static Jekyll site for the GitHub Pages user-site address `diptivaithiswaran-c
 
 ## Preview locally
 
-Install Ruby and Jekyll if needed:
+Install Ruby and Bundler if needed, then install the local preview dependencies:
 
 ```sh
-gem install jekyll
+gem install bundler
+bundle install
 ```
 
 From the repository root, run:
 
 ```sh
-jekyll serve
+bundle exec jekyll serve
 ```
 
-Open `http://127.0.0.1:4000`. To generate the static output without starting a server, run `jekyll build`; the generated files appear in `_site/`. GitHub Pages manages the Jekyll version used for its own build.
+Open `http://127.0.0.1:4000`. To generate the static output without starting a server, run `bundle exec jekyll build`; the generated files appear in `_site/`. GitHub Pages manages the Jekyll version used for its own build.
 
 ## Publish with GitHub Pages
 
-This is a GitHub user site. In the repository’s Pages settings, select deployment from the `main` branch and the `/` (root) folder. Keep `baseurl` empty in `_config.yml`. GitHub Pages builds the Jekyll site directly from the repository; no separate app or manual build step is required.
+Use the repository name `diptivaithiswaran-coding.github.io` for this GitHub user site. In the repository’s Pages settings, select deployment from the `main` branch and the `/` (root) folder. Keep `baseurl` empty in `_config.yml`. GitHub Pages builds the Jekyll site directly from the repository; no separate app or manual build step is required.
 
 ## Run Lighthouse
 
-1. Start the local preview with `jekyll serve`.
+1. Start the local preview with `bundle exec jekyll serve`.
 2. Open the site in Chrome at `http://127.0.0.1:4000`.
 3. In Chrome DevTools, open **Lighthouse**, select Performance, Accessibility, Best Practices, and SEO, and run an audit. Repeat with a mobile viewport.
 
-The design is intended to score at least 90 in each category. Re-run the audit after content, CSS, or metadata changes.
+The completed local build scored **100 in Performance, Accessibility, Best Practices, and SEO** on all four pages in both mobile and desktop Lighthouse audits. Navigation and theme persistence were also checked at 375px and 1280px widths. Re-run the audit after content, CSS, or metadata changes and after publishing, since the hosting environment can affect scores.
+
+## Technical choices and assumptions
+
+- Native Jekyll URL filters keep links correct for an empty user-site `baseurl`.
+- SEO tags and the Liquid-generated sitemap do not require third-party Jekyll plugins.
+- System font stacks avoid external font requests, and the only JavaScript switches the light/dark theme.
+- Only the pasted résumé was used. No information was fetched from LinkedIn.
+- Missing Creator Platform attribution remains visibly marked as a placeholder rather than inferred.

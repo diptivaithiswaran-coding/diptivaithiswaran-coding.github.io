@@ -1,0 +1,1 @@
+- [Static Jekyll audits](static-jekyll-audits.md) — keep verification tooling outside the repository and restore the static-site-only environment afterward.
