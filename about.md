@@ -47,10 +47,11 @@ Minor in Economics and Certificate in Entrepreneurship & Innovation.
 ## Outside of work
 
 - Creating content
+- Traveling
 - Cooking Indian food
 - Bharatanatyam
 - Carnatic music
 - Amusement parks
 {: .tag-list}
 
-![A creative desk with a camera, headphones, an open sketchbook, and small pastel details]({{ '/assets/images/creative-corner.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-about width="1024" height="1024" loading="lazy" decoding="async"}
+![Pastel travel illustration with a suitcase, airplane, folded map, passport, and globe]({{ '/assets/images/travel-adventures.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-about width="1024" height="1024" loading="lazy" decoding="async"}
