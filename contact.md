@@ -39,7 +39,7 @@ Whether you’d like to talk product and strategy, explore a fashion collaborati
         <path d="M9 4.1c.4 2.1 1.4 3.1 3 3.1s2.6-1 3-3.1M8.6 10.3h6.8"></path>
       </svg>
     </span>
-    <h2>Fashion Collaborations</h2>
+    <h2>Brand Collaborations</h2>
     <a class="contact-card-link" href="mailto:dressupwithdips@gmail.com">
       <span class="contact-card-value">dressupwithdips@gmail.com</span>
     </a>
