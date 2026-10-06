@@ -71,3 +71,4 @@ June–August 2026 · Summer internship · Manhattan, NY
 - Created Instagram and TikTok content with more than one million aggregate views.
 - Tested content formats, hashtags, posting times, and audio to grow an audience to 6,000+ within a year.
 - Built partnerships with ten brands through outreach and content, then ran cross-promotional campaigns to expand reach and brand awareness.
+- Walked the runway at **Los Angeles Fashion Week (LAFW)** and was featured in **Voyage ATL magazine**.

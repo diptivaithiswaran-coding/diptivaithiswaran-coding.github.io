@@ -29,7 +29,6 @@ Whether you’d like to talk product and strategy, explore a fashion collaborati
     <h2>Product &amp; Strategy</h2>
     <a class="contact-card-link" href="mailto:dipti_vaithiswaran@berkeley.edu">
       <span class="contact-card-value">dipti_vaithiswaran@berkeley.edu</span>
-      <span class="contact-card-action">Send an email <span aria-hidden="true">→</span></span>
     </a>
   </article>
 
@@ -43,7 +42,6 @@ Whether you’d like to talk product and strategy, explore a fashion collaborati
     <h2>Fashion Collaborations</h2>
     <a class="contact-card-link" href="mailto:dressupwithdips@gmail.com">
       <span class="contact-card-value">dressupwithdips@gmail.com</span>
-      <span class="contact-card-action">Email for partnerships <span aria-hidden="true">→</span></span>
     </a>
   </article>
 
@@ -58,11 +56,6 @@ Whether you’d like to talk product and strategy, explore a fashion collaborati
     <h2>Instagram</h2>
     <a class="contact-card-link" href="https://www.instagram.com/diptiivaithy/" target="_blank" rel="noopener noreferrer">
       <span class="contact-card-value">@diptiivaithy</span>
-      <span class="contact-card-action">Visit Instagram <span aria-hidden="true">↗</span></span>
     </a>
   </article>
 </section>
-
-<aside class="contact-credentials" aria-label="Creator experience">
-  <p><strong>For brands:</strong> A community of around 6,000 followers · LAFW runway appearance · brand collaborations · featured in Voyage ATL.</p>
-</aside>
