@@ -13,7 +13,7 @@ Contact
 For product, strategy, creator-economy conversations, or fashion brand collaborations, you can reach me by email.
 {: .lede}
 
-## Email
+## Product & strategy inquiries
 
 [dipti_vaithiswaran@berkeley.edu](mailto:dipti_vaithiswaran@berkeley.edu){: .email-link}
 
@@ -32,4 +32,6 @@ I create fashion content on social media for a community of around **6,000 follo
 
 [Find me on Instagram · @diptiivaithy](https://www.instagram.com/diptiivaithy/){: .text-link}
 
-For fashion content partnerships and brand collaborations, get in touch through Instagram or email.
+For fashion content partnerships and brand collaborations, get in touch through Instagram or my influencer email:
+
+[dressupwithdips@gmail.com](mailto:dressupwithdips@gmail.com){: .email-link}
