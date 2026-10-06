@@ -23,7 +23,7 @@ I’m a product and strategy professional with experience bringing teams togethe
 
 </div>
 
-## Education
+## <span aria-hidden="true" style="font-size: 0.75em;">🎓</span> Education
 
 ### University of California, Berkeley · Haas School of Business
 
