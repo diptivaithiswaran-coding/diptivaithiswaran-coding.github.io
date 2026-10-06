@@ -5,7 +5,7 @@ permalink: /work-experience/
 page_class: work-page
 ---
 
-# <span aria-hidden="true" style="font-size: 0.75em;">💼</span> Work Experience
+# <span aria-hidden="true" style="font-size: 0.75em;">💼 👠</span> Work Experience
 
 My work across product strategy, customer research, cross-functional delivery, and content creation.
 {: .lede}
