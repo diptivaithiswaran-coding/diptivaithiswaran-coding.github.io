@@ -14,7 +14,7 @@ A little about me
 
 # Product thinker. Creative storyteller.
 
-I’m a product and strategy professional with experience bringing teams together around customer needs, market opportunities, and practical product decisions. I’m pursuing my MBA at Berkeley Haas after five years in product management at Visa.
+I’m Dipti, a Berkeley Haas MBA student with five years of product management experience at Visa. I enjoy understanding what people need and turning those insights into thoughtful products. Alongside product management, I express my creative side through fashion, storytelling, and content creation.
 {: .lede}
 
 </div>
