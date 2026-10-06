@@ -223,8 +223,13 @@ li + li { margin-top: 0.55rem; }
   border-radius: 1rem;
   box-shadow: 0 0.7rem 1.8rem rgb(41 39 67 / 8%);
 }
+.experience-photo {
+  width: min(100%, 10rem);
+  margin: 1.5rem 0;
+  border-radius: 0.65rem;
+}
 .photo-caption {
-  max-width: 22.5rem;
+  max-width: 16rem;
   margin: -0.75rem 0 2rem;
   color: var(--faint);
   font-size: 0.9rem;
