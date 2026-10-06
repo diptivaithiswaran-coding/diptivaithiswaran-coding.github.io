@@ -225,14 +225,8 @@ li + li { margin-top: 0.55rem; }
 }
 .experience-photo {
   width: min(100%, 10rem);
-  margin: 1.5rem 0;
+  margin: 0.5rem 0 0.75rem;
   border-radius: 0.65rem;
-}
-.photo-caption {
-  max-width: 16rem;
-  margin: -0.75rem 0 2rem;
-  color: var(--faint);
-  font-size: 0.9rem;
 }
 .work-page h3 { color: var(--accent); font-family: inherit; font-size: 0.85rem; font-weight: 750; letter-spacing: 0.06em; text-transform: uppercase; }
 .entry-meta { color: var(--faint); letter-spacing: 0.035em; }

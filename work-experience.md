@@ -20,11 +20,6 @@ June–August 2026 · Summer internship
 
 **Product Management Intern**
 
-![Dipti seated on a sofa holding a dollar bill during Another's product launch photoshoot]({{ '/assets/images/another-product-launch.jpg' | relative_url }}){: .experience-photo width="667" height="1000" loading="lazy" decoding="async"}
-
-Product launch photoshoot for Another.
-{: .photo-caption}
-
 ### Product strategy & market research
 
 - Defined the platform’s value proposition by identifying four gaps in competing platforms: data ownership, fragmented analytics, limited negotiating leverage, and single-retailer lock-in. Presented a strategy deck to the CEO; leadership adopted the value proposition as a core pitch narrative. The research sized the creator economy at $250B+ with 22.5% CAGR.
@@ -34,6 +29,8 @@ Product launch photoshoot for Another.
 - Built the Creators Platform from its core MVP—onboarding, inventory, campaigns, payouts, and team access—to creator tools and customer-facing experiences. Authored requirements for 7+ MVP features and mapped the logic and edge cases across user flows.
 - Designed creator-facing enhancements including a six-metric performance dashboard, unified creator/customer account switching, and a brand partnership workflow for invitations, proposals, negotiation, and revenue splits.
 - Wrote requirements for a customer-facing Feed, creator and brand pages, and typo-tolerant, tiered-relevance search across creators, brands, products, and campaigns.
+- Participated in Another’s product launch photoshoot.
+  ![Dipti seated on a sofa holding a dollar bill during Another's product launch photoshoot]({{ '/assets/images/another-product-launch.jpg' | relative_url }}){: .experience-photo width="667" height="1000" loading="lazy" decoding="async"}
 
 ### User research & customer insight
 
