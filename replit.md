@@ -13,6 +13,7 @@ A static Jekyll site for publishing a personal portfolio through GitHub Pages.
 
 ## Important constraints
 
+- Keep Home very minimalistic.
 - Keep the publishable Jekyll site at the repository root for the `main` branch and `/` (root) GitHub Pages source.
 - Do not add a framework app, backend, database, contact form service, third-party trackers, or unnecessary dependencies.
 - Use the pasted résumé only; do not fetch the LinkedIn URL.

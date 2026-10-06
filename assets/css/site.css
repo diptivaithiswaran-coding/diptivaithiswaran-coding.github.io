@@ -189,8 +189,9 @@ strong { color: var(--ink); }
 ul { margin: 0 0 1rem; padding-left: 1.25rem; color: var(--muted); }
 li { padding-left: 0.18rem; }
 li + li { margin-top: 0.4rem; }
-.home-page h1 { max-width: 19ch; font-size: clamp(2.25rem, 5vw, 3.45rem); }
-.home-links { display: flex; flex-wrap: wrap; gap: 0.85rem 1.5rem; margin: 1.75rem 0 3.25rem; }
+.home-page h1 { max-width: 25ch; font-size: clamp(2rem, 4.2vw, 2.8rem); }
+.home-page .lede { max-width: 57ch; margin-top: 0.9rem; }
+.home-links { display: flex; flex-wrap: wrap; gap: 0.85rem 1.5rem; margin: 1.35rem 0 2rem; }
 .text-link { display: inline-flex; gap: 0.45rem; align-items: center; font-weight: 700; }
 .text-link::after { content: "→"; }
 .current-heading {
@@ -217,8 +218,8 @@ li + li { margin-top: 0.4rem; }
 .home-gallery {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
-  margin: 2.75rem 0 0;
+  gap: clamp(1rem, 3vw, 1.5rem);
+  margin: 1.75rem 0 0;
 }
 .home-gallery .portfolio-illustration-home {
   width: min(55%, 19rem);
@@ -238,6 +239,12 @@ li + li { margin-top: 0.4rem; }
   width: min(35%, 10rem);
   margin: 0;
   border-radius: 0.65rem;
+}
+@media (max-width: 520px) {
+  .home-page h1 { font-size: clamp(1.9rem, 8vw, 2.35rem); }
+  .home-gallery { gap: 0.85rem; }
+  .home-gallery .portfolio-illustration-home { width: 62%; }
+  .home-gallery .home-launch-photo { width: 32%; }
 }
 .work-page h3 { color: var(--accent); font-family: inherit; font-size: 1.15rem; font-weight: 700; letter-spacing: normal; text-transform: none; }
 .entry-meta { color: var(--faint); letter-spacing: 0.035em; }
