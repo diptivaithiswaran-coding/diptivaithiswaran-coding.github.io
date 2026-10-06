@@ -189,9 +189,9 @@ strong { color: var(--ink); }
 ul { margin: 0 0 1rem; padding-left: 1.25rem; color: var(--muted); }
 li { padding-left: 0.18rem; }
 li + li { margin-top: 0.4rem; }
-.home-page h1 { max-width: 25ch; font-size: clamp(2rem, 4.2vw, 2.8rem); }
+.home-page h1 { max-width: 25ch; font-size: clamp(2.2rem, 5vw, 3.35rem); }
 .home-page .lede { max-width: 57ch; margin-top: 0.9rem; }
-.home-links { display: flex; flex-wrap: wrap; gap: 0.85rem 1.5rem; margin: 1.35rem 0 2rem; }
+.home-links { display: flex; flex-wrap: wrap; gap: 0.85rem 1.5rem; margin: 1.35rem 0 2.5rem; }
 .text-link { display: inline-flex; gap: 0.45rem; align-items: center; font-weight: 700; }
 .text-link::after { content: "→"; }
 .current-heading {
@@ -216,25 +216,18 @@ li + li { margin-top: 0.4rem; }
   box-shadow: 0 0.7rem 1.8rem rgb(41 39 67 / 8%);
 }
 .home-gallery {
-  display: flex;
-  align-items: center;
-  gap: clamp(1rem, 3vw, 1.5rem);
-  margin: 1.75rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: stretch;
+  gap: clamp(1rem, 3vw, 1.6rem);
+  margin: 2rem 0 0;
 }
-.home-gallery .home-fashion-picture {
-  width: min(45%, 12rem);
+.home-gallery .portfolio-illustration {
+  width: 100%;
+  max-width: none;
   margin: 0;
+  border-radius: 1rem;
 }
-.home-haas-link {
-  display: flex;
-  align-items: center;
-  width: min(48%, 15rem);
-  padding: 1rem;
-  border: 1px solid var(--line);
-  border-radius: 0.85rem;
-  background: #ffffff;
-}
-.home-haas-symbol { display: block; width: 100%; height: auto; }
 .portfolio-illustration-about { width: min(100%, 18rem); }
 .about-portrait {
   display: block;
@@ -247,7 +240,12 @@ li + li { margin-top: 0.4rem; }
 }
 @media (max-width: 520px) {
   .home-page h1 { font-size: clamp(1.9rem, 8vw, 2.35rem); }
-  .home-gallery { gap: 0.85rem; }
+  .home-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+  .home-gallery .home-creative-picture {
+    grid-column: 1 / -1;
+    width: calc(50% - 0.5rem);
+    justify-self: center;
+  }
 }
 .work-page h3 { color: var(--accent); font-family: inherit; font-size: 1.15rem; font-weight: 700; letter-spacing: normal; text-transform: none; }
 .entry-meta { color: var(--faint); letter-spacing: 0.035em; }
