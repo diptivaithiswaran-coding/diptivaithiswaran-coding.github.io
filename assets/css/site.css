@@ -1,42 +1,45 @@
 :root {
   color-scheme: light;
-  --page: #f5f1e9;
-  --paper: #fbf9f4;
-  --ink: #27352f;
-  --muted: #56645c;
-  --faint: #59685e;
-  --accent: #8b432c;
-  --accent-hover: #71331f;
-  --line: #d9d1c4;
-  --soft-accent: #eee2d5;
-  --focus: #a13e21;
+  --page: #f0f5ff;
+  --page-tint: #fbedf6;
+  --paper: #ffffff;
+  --ink: #292743;
+  --muted: #55536c;
+  --faint: #625f79;
+  --accent: #684b9b;
+  --accent-hover: #4f367c;
+  --line: #d9d5e8;
+  --soft-accent: #f8eaf4;
+  --focus: #7652b4;
 }
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --page: #17231f;
-  --paper: #1e2c26;
-  --ink: #f1eee4;
-  --muted: #c4c9be;
-  --faint: #a5b0a6;
-  --accent: #f0ad8c;
-  --accent-hover: #ffd0b8;
-  --line: #405147;
-  --soft-accent: #3a342c;
-  --focus: #ffd0b8;
+  --page: #191a2b;
+  --page-tint: #211c30;
+  --paper: #242338;
+  --ink: #f2efff;
+  --muted: #d0cde2;
+  --faint: #b6b2ce;
+  --accent: #d1b7ff;
+  --accent-hover: #eadfff;
+  --line: #45415e;
+  --soft-accent: #392b43;
+  --focus: #e3ceff;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme]) {
     color-scheme: dark;
-    --page: #17231f;
-    --paper: #1e2c26;
-    --ink: #f1eee4;
-    --muted: #c4c9be;
-    --faint: #a5b0a6;
-    --accent: #f0ad8c;
-    --accent-hover: #ffd0b8;
-    --line: #405147;
-    --soft-accent: #3a342c;
-    --focus: #ffd0b8;
+    --page: #191a2b;
+    --page-tint: #211c30;
+    --paper: #242338;
+    --ink: #f2efff;
+    --muted: #d0cde2;
+    --faint: #b6b2ce;
+    --accent: #d1b7ff;
+    --accent-hover: #eadfff;
+    --line: #45415e;
+    --soft-accent: #392b43;
+    --focus: #e3ceff;
   }
 }
 * { box-sizing: border-box; }
@@ -44,7 +47,7 @@ html { min-width: 320px; }
 body {
   min-height: 100vh;
   margin: 0;
-  background: var(--page);
+  background: linear-gradient(125deg, var(--page) 0%, var(--page-tint) 100%);
   color: var(--ink);
   font: 1rem/1.72 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -74,7 +77,7 @@ button { font: inherit; }
   font-weight: 700;
 }
 .skip-link:focus { transform: translateY(0); }
-.site-header, .site-footer { border-color: var(--line); }
+.site-header, .site-footer { border-color: var(--line); background: var(--paper); }
 .site-header { border-bottom: 1px solid var(--line); }
 .header-inner, .footer-inner {
   display: flex;
