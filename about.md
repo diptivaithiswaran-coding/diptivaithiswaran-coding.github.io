@@ -5,15 +5,23 @@ permalink: /about/
 page_class: about-page
 ---
 
+<div class="about-intro" markdown="1">
+
+<div class="about-intro-copy" markdown="1">
+
 A little about me
 {: .eyebrow}
 
-# Strategy grounded in how people actually work.
+# Product thinker. Creative storyteller.
 
 I’m a product and strategy professional with experience bringing teams together around customer needs, market opportunities, and practical product decisions. I’m pursuing my MBA at Berkeley Haas after five years in product management at Visa.
 {: .lede}
 
+</div>
+
 ![Seated outdoors in a purple sweater, with a city skyline and blue sky in the background]({{ '/assets/images/about-portrait.jpg' | relative_url }}){: .about-portrait width="750" height="1000" decoding="async"}
+
+</div>
 
 ## Education
 
