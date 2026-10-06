@@ -41,7 +41,7 @@ I’m Dipti, a Berkeley Haas MBA student with five years of product management e
 
 Minor in Economics and Certificate in Entrepreneurship & Innovation
 
-## Tools and skills
+## Tools and Skills
 
 - Microsoft Office Suite
 - R
@@ -59,7 +59,7 @@ Minor in Economics and Certificate in Entrepreneurship & Innovation
 - Edits
 {: .tag-list}
 
-## Outside of work
+## Outside of Work
 
 - Creating content
 - Traveling
