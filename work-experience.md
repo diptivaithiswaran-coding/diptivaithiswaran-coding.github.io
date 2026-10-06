@@ -21,6 +21,11 @@ Product strategy and product requirements
 **Placeholder:** the formal role title and dates for this work have not yet been provided.
 {: .placeholder-note}
 
+![Dipti seated on a sofa holding a dollar bill during Another's product launch photoshoot]({{ '/assets/images/another-product-launch.jpg' | relative_url }}){: .experience-photo width="667" height="1000" loading="lazy" decoding="async"}
+
+Product launch photoshoot for Another.
+{: .photo-caption}
+
 ### Product strategy & market research
 
 - Defined the platform’s value proposition by identifying four gaps in competing platforms: data ownership, fragmented analytics, limited negotiating leverage, and single-retailer lock-in. Presented a strategy deck to the CEO; leadership adopted the value proposition as a core pitch narrative. The research sized the creator economy at $250B+ with 22.5% CAGR.
