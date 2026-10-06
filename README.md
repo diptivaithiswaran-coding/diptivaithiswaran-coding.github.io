@@ -10,7 +10,7 @@ A static Jekyll site for the GitHub Pages user-site address `diptivaithiswaran-c
 - Edit `assets/css/site.css` for presentation. The theme supports both light and dark appearances; the visitor can choose a theme, and the choice is stored in their browser when available.
 - Edit `assets/js/theme.js` only for theme-switching behavior.
 - Replace `assets/favicon.svg` to change the browser icon.
-- The Another entry intentionally labels the missing role and dates as placeholders. Replace that note once those details are available.
+- The Another entry covers the Product Management Intern summer internship from June–August 2026.
 - The email address on the Contact page is public. The phone number from the source résumé is not included.
 
 ## Preview locally
@@ -54,4 +54,4 @@ The completed local build scored **100 in Performance, Accessibility, Best Pract
 - SEO tags and the Liquid-generated sitemap do not require third-party Jekyll plugins.
 - System font stacks avoid external font requests, and the only JavaScript switches the light/dark theme.
 - Only the pasted résumé was used. No information was fetched from LinkedIn.
-- Missing role and dates for Another remain visibly marked as placeholders rather than inferred.
+- The Another role and dates were supplied directly by the site owner.

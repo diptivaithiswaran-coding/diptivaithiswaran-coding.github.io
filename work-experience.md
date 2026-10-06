@@ -15,11 +15,10 @@ My work across product strategy, customer research, cross-functional delivery, a
 
 ## Another
 
-Product strategy and product requirements
+June–August 2026 · Summer internship
 {: .entry-meta}
 
-**Placeholder:** the formal role title and dates for this work have not yet been provided.
-{: .placeholder-note}
+**Product Management Intern**
 
 ![Dipti seated on a sofa holding a dollar bill during Another's product launch photoshoot]({{ '/assets/images/another-product-launch.jpg' | relative_url }}){: .experience-photo width="667" height="1000" loading="lazy" decoding="async"}
 
