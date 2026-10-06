@@ -231,8 +231,11 @@ li + li { margin-top: 0.4rem; }
 }
 .portfolio-illustration-about { width: min(100%, 18rem); }
 .interests-gallery {
+  /* Match Home's three-column image size without widening About's text. */
+  --home-page-gutter: 3rem;
+  --home-image-width: calc((min(1080px, 100vw - var(--home-page-gutter)) - 2 * clamp(1rem, 3vw, 1.6rem)) / 3);
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, var(--home-image-width)));
   gap: clamp(1rem, 3vw, 1.5rem);
   margin: 2rem 0 0;
 }
@@ -281,6 +284,7 @@ li + li { margin-top: 0.4rem; }
 @media (max-width: 520px) {
   .home-page h1 { font-size: clamp(1.9rem, 8vw, 2.35rem); }
   .home-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+  .interests-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .home-gallery .home-creative-picture {
     grid-column: 1 / -1;
     width: calc(50% - 0.5rem);
@@ -302,6 +306,7 @@ li + li { margin-top: 0.4rem; }
   .site-nav { order: 3; width: 100%; overflow-x: auto; padding: 0.3rem 0 0.15rem; }
   .site-main { width: min(calc(100% - 2rem), 760px); }
   .site-main.home-page { width: calc(100% - 2rem); }
+  .interests-gallery { --home-page-gutter: 2rem; }
 }
 @media (max-width: 520px) {
   body { font-size: 1rem; }
