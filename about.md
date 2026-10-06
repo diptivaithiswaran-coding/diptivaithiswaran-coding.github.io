@@ -23,7 +23,7 @@ I’m Dipti, a Berkeley Haas MBA student with five years of product management e
 
 </div>
 
-## <span aria-hidden="true" style="font-size: 0.75em;">🎓</span> Education
+## Education
 
 ### University of California, Berkeley · Haas School of Business
 
