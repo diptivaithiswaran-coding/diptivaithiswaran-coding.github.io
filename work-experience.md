@@ -12,7 +12,7 @@ My work across product strategy, customer research, cross-functional delivery, a
 
 ## Another
 
-June–August 2026 · Summer internship
+June–August 2026 · Summer internship · Manhattan, NY
 {: .entry-meta}
 
 **Product Management Intern**
@@ -34,7 +34,7 @@ June–August 2026 · Summer internship
 
 ## Visa
 
-2020–2025 · Austin, Texas
+2020–2025 · San Francisco, CA · Austin, TX
 {: .entry-meta}
 
 **Senior Associate Product Manager, 2022–2025**  
