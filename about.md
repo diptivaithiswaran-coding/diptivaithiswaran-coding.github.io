@@ -50,3 +50,5 @@ Minor in Economics and Certificate in Entrepreneurship & Innovation.
 - Carnatic music
 - Amusement parks
 {: .tag-list}
+
+![A creative desk with a camera, headphones, an open sketchbook, and small pastel details]({{ '/assets/images/creative-corner.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-about width="1024" height="1024" loading="lazy" decoding="async"}

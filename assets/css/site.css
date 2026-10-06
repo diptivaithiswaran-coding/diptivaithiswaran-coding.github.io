@@ -203,6 +203,17 @@ li + li { margin-top: 0.55rem; }
 }
 .tag-list { display: flex; flex-wrap: wrap; gap: 0.55rem; padding: 0; list-style: none; }
 .tag-list li { margin: 0; padding: 0.28rem 0.7rem; border: 1px solid var(--line); border-radius: 999px; font-size: 0.88rem; }
+.portfolio-illustration {
+  display: block;
+  width: min(100%, 19rem);
+  height: auto;
+  margin: 2.25rem 0 0;
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+  box-shadow: 0 0.7rem 1.8rem rgb(41 39 67 / 8%);
+}
+.portfolio-illustration-home { margin-top: 2.75rem; }
+.portfolio-illustration-about { width: min(100%, 18rem); }
 .work-page h3 { color: var(--accent); font-family: inherit; font-size: 0.85rem; font-weight: 750; letter-spacing: 0.06em; text-transform: uppercase; }
 .entry-meta { color: var(--faint); letter-spacing: 0.035em; }
 .placeholder-note { padding: 0.9rem 1rem; border-left: 3px solid var(--accent); background: var(--soft-accent); font-size: 0.9rem; }

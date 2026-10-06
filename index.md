@@ -23,3 +23,5 @@ I’m Dipti Vaithiswaran. My work spans product management, go-to-market strateg
 **MBA, University of California, Berkeley, Haas School of Business** · May 2027
 
 Interested in the people, strategy, and details that turn a complex product problem into a clear next step.
+
+![A playful product-planning collage with colorful notes, conversation bubbles, and an idea lightbulb]({{ '/assets/images/product-playground.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-home width="1024" height="1024" loading="lazy" decoding="async"}
