@@ -39,7 +39,7 @@ I’m Dipti, a Berkeley Haas MBA student with five years of product management e
 
 **B.S. in Strategy and Organizational Management** · May 2020
 
-Minor in Economics and Certificate in Entrepreneurship & Innovation.
+Minor in Economics and Certificate in Entrepreneurship & Innovation
 
 ## Tools and skills
 
