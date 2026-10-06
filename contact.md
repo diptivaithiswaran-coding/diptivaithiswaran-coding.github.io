@@ -13,7 +13,7 @@ Contact
 # Let’s Connect
 {: .contact-title}
 
-Whether you’d like to talk product and strategy, explore a fashion collaboration, or simply say hello, I’d love to hear from you.
+Whether you’d like to talk product and strategy, explore a brand collaboration, or simply say hello, I’d love to hear from you.
 {: .lede}
 
 </section>
