@@ -225,8 +225,26 @@ li + li { margin-top: 0.55rem; }
 }
 .experience-photo {
   width: min(100%, 10rem);
-  margin: 0.5rem 0 0.75rem;
+  margin: 0;
   border-radius: 0.65rem;
+}
+.work-page li:has(> .experience-photo) {
+  position: relative;
+  min-height: 15rem;
+  padding-right: 11rem;
+}
+.work-page li > .experience-photo {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 10rem;
+}
+@media (max-width: 520px) {
+  .work-page li:has(> .experience-photo) {
+    min-height: 10.5rem;
+    padding-right: 8rem;
+  }
+  .work-page li > .experience-photo { width: 7rem; }
 }
 .work-page h3 { color: var(--accent); font-family: inherit; font-size: 0.85rem; font-weight: 750; letter-spacing: 0.06em; text-transform: uppercase; }
 .entry-meta { color: var(--faint); letter-spacing: 0.035em; }
