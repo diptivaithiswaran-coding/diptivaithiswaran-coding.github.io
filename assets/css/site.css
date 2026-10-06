@@ -189,8 +189,9 @@ strong { color: var(--ink); }
 ul { margin: 0 0 1rem; padding-left: 1.25rem; color: var(--muted); }
 li { padding-left: 0.18rem; }
 li + li { margin-top: 0.4rem; }
-.home-page h1 { max-width: 25ch; font-size: clamp(2.2rem, 5vw, 3.35rem); }
-.home-page .lede { max-width: 57ch; margin-top: 0.9rem; }
+.site-main.home-page { width: min(calc(100% - 3rem), 1080px); }
+.home-page h1 { max-width: none; font-size: clamp(2.2rem, 5vw, 3.35rem); }
+.home-page .lede { max-width: none; margin-top: 0.9rem; }
 .home-links { display: flex; flex-wrap: wrap; gap: 0.85rem 1.5rem; margin: 1.35rem 0 2.5rem; }
 .text-link { display: inline-flex; gap: 0.45rem; align-items: center; font-weight: 700; }
 .text-link::after { content: "→"; }
@@ -261,6 +262,7 @@ li + li { margin-top: 0.4rem; }
   .header-inner { min-height: unset; padding: 1rem 0; flex-wrap: wrap; }
   .site-nav { order: 3; width: 100%; overflow-x: auto; padding: 0.3rem 0 0.15rem; }
   .site-main { width: min(calc(100% - 2rem), 760px); }
+  .site-main.home-page { width: calc(100% - 2rem); }
 }
 @media (max-width: 520px) {
   body { font-size: 1rem; }

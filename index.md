@@ -5,7 +5,7 @@ permalink: /
 page_class: home-page
 ---
 
-# Product management + content creator
+# Product manager + content creator
 
 I’m Dipti Vaithiswaran, a Berkeley Haas MBA student working across product strategy and fashion content creation.
 {: .lede}
