@@ -63,7 +63,7 @@ June–August 2026 · Summer internship · Manhattan, NY
 
 ## Content Creation
 
-2022–present · Austin, Texas
+2022–present · San Francisco, CA
 {: .entry-meta}
 
 **Fashion social media influencer**
