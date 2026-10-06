@@ -14,6 +14,6 @@ I’m Dipti Vaithiswaran, a Berkeley Haas MBA student working across product str
 [Contact me]({{ '/contact/' | relative_url }}){: .text-link}
 {: .home-links}
 
-![A playful product-planning collage with colorful notes, conversation bubbles, and an idea lightbulb]({{ '/assets/images/product-playground.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-home width="1024" height="1024" loading="lazy" decoding="async"}
-![Dipti during Another's product launch photoshoot]({{ '/assets/images/another-product-launch.jpg' | relative_url }}){: .home-launch-photo width="667" height="1000" loading="lazy" decoding="async"}
+[![UC Berkeley Haas]({{ '/assets/images/berkeley-haas.svg' | relative_url }}){: .home-haas-symbol width="187" height="24" decoding="async"}](https://haas.berkeley.edu/){: .home-haas-link}
+![Pastel fashion illustration with a pink dress, lavender handbag, and blue shoes]({{ '/assets/images/fashion-storytelling.jpg' | relative_url }}){: .portfolio-illustration .home-fashion-picture width="1024" height="1024" loading="lazy" decoding="async"}
 {: .home-gallery}

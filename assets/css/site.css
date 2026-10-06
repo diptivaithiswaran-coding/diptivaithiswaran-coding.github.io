@@ -221,12 +221,22 @@ li + li { margin-top: 0.4rem; }
   gap: clamp(1rem, 3vw, 1.5rem);
   margin: 1.75rem 0 0;
 }
-.home-gallery .portfolio-illustration-home {
-  width: min(55%, 19rem);
+.home-gallery .home-fashion-picture {
+  width: min(45%, 12rem);
   margin: 0;
 }
+.home-haas-link {
+  display: flex;
+  align-items: center;
+  width: min(48%, 15rem);
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+  background: #ffffff;
+}
+.home-haas-symbol { display: block; width: 100%; height: auto; }
 .portfolio-illustration-about { width: min(100%, 18rem); }
-.about-portrait, .home-launch-photo {
+.about-portrait {
   display: block;
   width: min(100%, 22.5rem);
   height: auto;
@@ -235,16 +245,9 @@ li + li { margin-top: 0.4rem; }
   border-radius: 1rem;
   box-shadow: 0 0.7rem 1.8rem rgb(41 39 67 / 8%);
 }
-.home-launch-photo {
-  width: min(35%, 10rem);
-  margin: 0;
-  border-radius: 0.65rem;
-}
 @media (max-width: 520px) {
   .home-page h1 { font-size: clamp(1.9rem, 8vw, 2.35rem); }
   .home-gallery { gap: 0.85rem; }
-  .home-gallery .portfolio-illustration-home { width: 62%; }
-  .home-gallery .home-launch-photo { width: 32%; }
 }
 .work-page h3 { color: var(--accent); font-family: inherit; font-size: 1.15rem; font-weight: 700; letter-spacing: normal; text-transform: none; }
 .entry-meta { color: var(--faint); letter-spacing: 0.035em; }
