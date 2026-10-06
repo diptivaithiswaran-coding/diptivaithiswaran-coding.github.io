@@ -15,6 +15,12 @@ A static Jekyll site for the GitHub Pages user-site address `diptivaithiswaran-c
 
 ## Preview locally
 
+### In Replit
+
+Click **Run** to start the **Preview portfolio** workflow, then open **Preview**. It uses Jekyll's built-in server on port 5000; no separate application is needed.
+
+### On your computer
+
 Install Ruby and Bundler if needed, then install the local preview dependencies:
 
 ```sh
