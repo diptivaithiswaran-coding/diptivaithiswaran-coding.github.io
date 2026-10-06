@@ -10,7 +10,7 @@ page_class: work-page
 My work across product strategy, customer research, cross-functional delivery, and content creation.
 {: .lede}
 
-## Another
+## *Another*
 
 June–August 2026 · Summer internship · Manhattan, NY
 {: .entry-meta}
@@ -32,7 +32,7 @@ June–August 2026 · Summer internship · Manhattan, NY
 
 - Planned and led the GotMine Creators Breakfast focus group. Feedback highlighted transparent commissions, easier linking, and analytics, and informed the product roadmap.
 
-## Visa
+## *Visa*
 
 2020–2025 · San Francisco, CA · Austin, TX
 {: .entry-meta}
