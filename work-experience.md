@@ -13,6 +13,28 @@ Selected work
 My work across product strategy, customer research, cross-functional delivery, and content creation.
 {: .lede}
 
+## Another
+
+Product strategy and product requirements
+{: .entry-meta}
+
+**Placeholder:** the formal role title and dates for this work have not yet been provided.
+{: .placeholder-note}
+
+### Product strategy & market research
+
+- Defined the platform’s value proposition by identifying four gaps in competing platforms: data ownership, fragmented analytics, limited negotiating leverage, and single-retailer lock-in. Presented a strategy deck to the CEO; leadership adopted the value proposition as a core pitch narrative. The research sized the creator economy at $250B+ with 22.5% CAGR.
+
+### Product requirements & execution
+
+- Built the Creators Platform from its core MVP—onboarding, inventory, campaigns, payouts, and team access—to creator tools and customer-facing experiences. Authored requirements for 7+ MVP features and mapped the logic and edge cases across user flows.
+- Designed creator-facing enhancements including a six-metric performance dashboard, unified creator/customer account switching, and a brand partnership workflow for invitations, proposals, negotiation, and revenue splits.
+- Wrote requirements for a customer-facing Feed, creator and brand pages, and typo-tolerant, tiered-relevance search across creators, brands, products, and campaigns.
+
+### User research & customer insight
+
+- Planned and led the GotMine Creators Breakfast focus group. Feedback highlighted transparent commissions, easier linking, and analytics, and informed the product roadmap.
+
 ## Visa
 
 2020–2025 · Austin, Texas
@@ -52,25 +74,3 @@ My work across product strategy, customer research, cross-functional delivery, a
 - Created Instagram and TikTok content with more than one million aggregate views.
 - Tested content formats, hashtags, posting times, and audio to grow an audience to 6,000+ within a year.
 - Built partnerships with ten brands through outreach and content, then ran cross-promotional campaigns to expand reach and brand awareness.
-
-## Creator Platform
-
-Additional product work · Product strategy and product requirements
-{: .entry-meta}
-
-**Placeholder:** the employer, formal role title, and dates for this work were not included in the supplied material.
-{: .placeholder-note}
-
-### Product strategy & market research
-
-- Defined the platform’s value proposition by identifying four gaps in competing platforms: data ownership, fragmented analytics, limited negotiating leverage, and single-retailer lock-in. Presented a strategy deck to the CEO; leadership adopted the value proposition as a core pitch narrative. The research sized the creator economy at $250B+ with 22.5% CAGR.
-
-### Product requirements & execution
-
-- Built the Creators Platform from its core MVP—onboarding, inventory, campaigns, payouts, and team access—to creator tools and customer-facing experiences. Authored requirements for 7+ MVP features and mapped the logic and edge cases across user flows.
-- Designed creator-facing enhancements including a six-metric performance dashboard, unified creator/customer account switching, and a brand partnership workflow for invitations, proposals, negotiation, and revenue splits.
-- Wrote requirements for a customer-facing Feed, creator and brand pages, and typo-tolerant, tiered-relevance search across creators, brands, products, and campaigns.
-
-### User research & customer insight
-
-- Planned and led the GotMine Creators Breakfast focus group. Feedback highlighted transparent commissions, easier linking, and analytics, and informed the product roadmap.
