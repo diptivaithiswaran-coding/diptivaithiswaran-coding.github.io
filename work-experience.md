@@ -30,7 +30,6 @@ June–August 2026 · Summer internship
 - Designed creator-facing enhancements including a six-metric performance dashboard, unified creator/customer account switching, and a brand partnership workflow for invitations, proposals, negotiation, and revenue splits.
 - Wrote requirements for a customer-facing Feed, creator and brand pages, and typo-tolerant, tiered-relevance search across creators, brands, products, and campaigns.
 - Participated in Another’s product launch photoshoot.
-  ![Dipti seated on a sofa holding a dollar bill during Another's product launch photoshoot]({{ '/assets/images/another-product-launch.jpg' | relative_url }}){: .experience-photo width="667" height="1000" loading="lazy" decoding="async"}
 
 ### User research & customer insight
 

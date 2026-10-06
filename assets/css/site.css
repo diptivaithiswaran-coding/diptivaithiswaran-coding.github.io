@@ -212,9 +212,18 @@ li + li { margin-top: 0.55rem; }
   border-radius: 0.85rem;
   box-shadow: 0 0.7rem 1.8rem rgb(41 39 67 / 8%);
 }
-.portfolio-illustration-home { margin-top: 2.75rem; }
+.home-gallery {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 2.75rem 0 0;
+}
+.home-gallery .portfolio-illustration-home {
+  width: min(55%, 19rem);
+  margin: 0;
+}
 .portfolio-illustration-about { width: min(100%, 18rem); }
-.about-portrait, .experience-photo {
+.about-portrait, .home-launch-photo {
   display: block;
   width: min(100%, 22.5rem);
   height: auto;
@@ -223,28 +232,10 @@ li + li { margin-top: 0.55rem; }
   border-radius: 1rem;
   box-shadow: 0 0.7rem 1.8rem rgb(41 39 67 / 8%);
 }
-.experience-photo {
-  width: min(100%, 10rem);
+.home-launch-photo {
+  width: min(35%, 10rem);
   margin: 0;
   border-radius: 0.65rem;
-}
-.work-page li:has(> .experience-photo) {
-  position: relative;
-  min-height: 15rem;
-  padding-right: 11rem;
-}
-.work-page li > .experience-photo {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 10rem;
-}
-@media (max-width: 520px) {
-  .work-page li:has(> .experience-photo) {
-    min-height: 10.5rem;
-    padding-right: 8rem;
-  }
-  .work-page li > .experience-photo { width: 7rem; }
 }
 .work-page h3 { color: var(--accent); font-family: inherit; font-size: 0.85rem; font-weight: 750; letter-spacing: 0.06em; text-transform: uppercase; }
 .entry-meta { color: var(--faint); letter-spacing: 0.035em; }
