@@ -5,33 +5,67 @@ permalink: /contact/
 page_class: contact-page
 ---
 
+<section class="contact-intro" markdown="1">
+
 Contact
 {: .eyebrow}
 
-# Let’s start a conversation.
+# Let’s Connect
+{: .contact-title}
 
-For product, strategy, creator-economy conversations, or fashion brand collaborations, you can reach me by email.
+Whether you’d like to talk product and strategy, explore a fashion collaboration, or simply say hello, I’d love to hear from you.
 {: .lede}
 
-## Product & strategy inquiries
+</section>
 
-[dipti_vaithiswaran@berkeley.edu](mailto:dipti_vaithiswaran@berkeley.edu){: .email-link}
+<section class="contact-options" aria-label="Ways to get in touch">
+  <article class="contact-card contact-card-product">
+    <span class="contact-icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none">
+        <rect x="3.25" y="5.5" width="17.5" height="13" rx="2.2"></rect>
+        <path d="m4.5 7 7.5 5.7L19.5 7"></path>
+      </svg>
+    </span>
+    <h2>Product &amp; Strategy</h2>
+    <p>For product opportunities, strategy, and thoughtful conversations.</p>
+    <a class="contact-card-link" href="mailto:dipti_vaithiswaran@berkeley.edu">
+      <span class="contact-card-value">dipti_vaithiswaran@berkeley.edu</span>
+      <span class="contact-card-action">Send an email <span aria-hidden="true">→</span></span>
+    </a>
+  </article>
 
-This email address is public. The link opens your email app; if you don’t have one set up, you can copy the address into your preferred service.
-{: .contact-note}
+  <article class="contact-card contact-card-fashion">
+    <span class="contact-icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none">
+        <path d="M7.2 3.8h9.6l1.3 5.1-2.7 1.4v9.9H8.6v-9.9L5.9 8.9l1.3-5.1Z"></path>
+        <path d="M9 4.1c.4 2.1 1.4 3.1 3 3.1s2.6-1 3-3.1M8.6 10.3h6.8"></path>
+      </svg>
+    </span>
+    <h2>Fashion Collaborations</h2>
+    <p>For brand partnerships, content creation, and campaign inquiries.</p>
+    <a class="contact-card-link" href="mailto:dressupwithdips@gmail.com">
+      <span class="contact-card-value">dressupwithdips@gmail.com</span>
+      <span class="contact-card-action">Email for partnerships <span aria-hidden="true">→</span></span>
+    </a>
+  </article>
 
-## Content creation
+  <article class="contact-card contact-card-social">
+    <span class="contact-icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none">
+        <rect x="3.5" y="3.5" width="17" height="17" rx="4.8"></rect>
+        <circle cx="12" cy="12" r="3.7"></circle>
+        <circle class="icon-dot" cx="17.6" cy="6.7" r=".9"></circle>
+      </svg>
+    </span>
+    <h2>Instagram</h2>
+    <p>Find my fashion content and say hello over on Instagram.</p>
+    <a class="contact-card-link" href="https://www.instagram.com/diptiivaithy/" target="_blank" rel="noopener noreferrer">
+      <span class="contact-card-value">@diptiivaithy</span>
+      <span class="contact-card-action">Visit Instagram <span aria-hidden="true">↗</span></span>
+    </a>
+  </article>
+</section>
 
-**Fashion influencer & social media creator**
-
-I create fashion content on social media for a community of around **6,000 followers**.
-
-- Walked the runway at **Los Angeles Fashion Week (LAFW)**.
-- Collaborated with brands on social media content and campaigns.
-- Featured in **Voyage ATL magazine**.
-
-[Find me on Instagram · @diptiivaithy](https://www.instagram.com/diptiivaithy/){: .text-link}
-
-For fashion content partnerships and brand collaborations, get in touch through Instagram or my influencer email:
-
-[dressupwithdips@gmail.com](mailto:dressupwithdips@gmail.com){: .email-link}
+<aside class="contact-credentials" aria-label="Creator experience">
+  <p><strong>For brands:</strong> A community of around 6,000 followers · LAFW runway appearance · brand collaborations · featured in Voyage ATL.</p>
+</aside>
