@@ -249,6 +249,7 @@ li + li { margin-top: 0.4rem; }
   border-radius: 1rem;
   box-shadow: 0 0.7rem 1.8rem rgb(41 39 67 / 8%);
 }
+.about-page h2 { color: var(--accent); }
 .about-page .about-intro {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 16rem);
