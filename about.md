@@ -55,3 +55,5 @@ Minor in Economics and Certificate in Entrepreneurship & Innovation.
 {: .tag-list}
 
 ![Pastel travel illustration with a suitcase, airplane, folded map, passport, and globe]({{ '/assets/images/travel-adventures.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-about width="1024" height="1024" loading="lazy" decoding="async"}
+![Pastel Indian cooking illustration with a pot, dosa, chutney, and bowls of spices]({{ '/assets/images/cooking-indian-food.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-about width="1024" height="1024" loading="lazy" decoding="async"}
+{: .interests-gallery}
