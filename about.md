@@ -21,8 +21,10 @@ I’m a product and strategy professional with experience bringing teams togethe
 
 **Master of Business Administration** · May 2027
 
+- Haas Student Ambassador
+- President of South Asian Business Association
+- VP of Marketing for Berkeley Female Founders and Funders
 - Beauty and Luxury Consumer Products Club
-- VP of Marketing, Berkeley Female Founders and Funders
 - Consulting project: developed a go-to-market strategy to drive SMB customer growth in Germany
 
 ### Purdue University
