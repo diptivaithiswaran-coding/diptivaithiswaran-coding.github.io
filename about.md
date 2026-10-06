@@ -33,6 +33,11 @@ Minor in Economics and Certificate in Entrepreneurship & Innovation.
 
 ## Tools and skills
 
+- Microsoft Office Suite
+- R
+- Replit
+- AI tools
+- Tableau
 - Mural
 - Airtable
 - Adobe Experience Manager
