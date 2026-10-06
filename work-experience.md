@@ -5,9 +5,6 @@ permalink: /work-experience/
 page_class: work-page
 ---
 
-Selected work
-{: .eyebrow}
-
 # Work Experience
 
 My work across product strategy, customer research, cross-functional delivery, and content creation.
