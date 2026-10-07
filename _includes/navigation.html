@@ -12,9 +12,11 @@
         >{{ item.label }}</a>
       {% endfor %}
     </nav>
-    <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false">
-      <span class="theme-toggle-icon" aria-hidden="true"></span>
-      <span data-theme-label>Dark theme</span>
+    <button class="theme-toggle" type="button" role="switch" data-theme-toggle aria-checked="false" aria-label="Dark mode">
+      <span data-theme-label aria-hidden="true">Light</span>
+      <span class="theme-toggle-track" aria-hidden="true">
+        <span class="theme-toggle-thumb"></span>
+      </span>
     </button>
   </div>
 </header>

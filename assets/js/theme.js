@@ -4,6 +4,7 @@
   const label = document.querySelector("[data-theme-label]");
   const storageKey = "dipti-portfolio-theme";
   const validThemes = new Set(["light", "dark"]);
+  const preferredTheme = window.matchMedia("(prefers-color-scheme: dark)");
 
   if (!button || !label) return;
 
@@ -16,14 +17,16 @@
 
   const currentTheme = () => {
     if (validThemes.has(root.dataset.theme)) return root.dataset.theme;
-    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    return preferredTheme.matches ? "dark" : "light";
   };
 
   const updateButton = () => {
     const darkModeIsOn = currentTheme() === "dark";
-    label.textContent = darkModeIsOn ? "Light theme" : "Dark theme";
-    button.setAttribute("aria-pressed", String(darkModeIsOn));
-    button.setAttribute("aria-label", `Switch to ${darkModeIsOn ? "light" : "dark"} theme`);
+    label.textContent = darkModeIsOn ? "Dark" : "Light";
+    button.setAttribute("aria-checked", String(darkModeIsOn));
+    document.querySelector('meta[name="theme-color"]')?.setAttribute(
+      "content", darkModeIsOn ? "#191a2b" : "#f0f5ff"
+    );
   };
 
   button.addEventListener("click", () => {
@@ -37,5 +40,6 @@
     updateButton();
   });
 
+  preferredTheme.addEventListener("change", updateButton);
   updateButton();
 })();
