@@ -5,6 +5,8 @@ permalink: /
 page_class: home-page
 ---
 
+<section markdown="1">
+
 Dipti Vaithiswaran
 {: .eyebrow}
 
@@ -12,6 +14,8 @@ Dipti Vaithiswaran
 
 I’m Dipti Vaithiswaran, a Berkeley Haas MBA student working across product strategy and fashion content creation.
 {: .lede}
+
+</section>
 
 ![Pastel illustration of product ideas, notes, and a flowchart representing product management]({{ '/assets/images/product-playground.jpg' | relative_url }}){: .portfolio-illustration .home-product-picture width="1024" height="1024" loading="lazy" decoding="async"}
 ![Pastel fashion illustration with a pink dress, lavender handbag, and blue shoes]({{ '/assets/images/fashion-storytelling.jpg' | relative_url }}){: .portfolio-illustration .home-fashion-picture width="1024" height="1024" loading="lazy" decoding="async"}

@@ -23,6 +23,8 @@ I’m Dipti, a Berkeley Haas MBA student with five years of product management e
 
 </div>
 
+<section markdown="1">
+
 ## Education
 
 ### University of California, Berkeley · Haas School of Business
@@ -40,6 +42,10 @@ I’m Dipti, a Berkeley Haas MBA student with five years of product management e
 **B.S. in Strategy and Organizational Management** · May 2020
 
 Minor in Economics and Certificate in Entrepreneurship & Innovation
+
+</section>
+
+<section markdown="1">
 
 ## Tools and Skills
 
@@ -59,6 +65,10 @@ Minor in Economics and Certificate in Entrepreneurship & Innovation
 - Edits
 {: .tag-list}
 
+</section>
+
+<section markdown="1">
+
 ## Outside of Work
 
 - Creating content
@@ -73,3 +83,5 @@ Minor in Economics and Certificate in Entrepreneurship & Innovation
 ![Pastel Indian cooking illustration with a pot, dosa, chutney, and bowls of spices]({{ '/assets/images/cooking-indian-food.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-about width="1024" height="1024" loading="lazy" decoding="async"}
 ![Pastel illustration of an Indian classical dancer with a microphone, bamboo flute, and musical notes]({{ '/assets/images/dance-and-music-flute.jpg' | relative_url }}){: .portfolio-illustration .portfolio-illustration-about .interest-performance-picture width="1024" height="1024" loading="lazy" decoding="async"}
 {: .interests-gallery}
+
+</section>
