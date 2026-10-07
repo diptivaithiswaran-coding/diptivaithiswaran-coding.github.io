@@ -43,6 +43,17 @@
   }
 }
 * { box-sizing: border-box; }
+.scroll-reveal {
+  opacity: 1;
+  transition: opacity 320ms ease-out;
+}
+.scroll-reveal.is-pending { opacity: 0; }
+@media (prefers-reduced-motion: reduce) {
+  .scroll-reveal, .scroll-reveal.is-pending {
+    opacity: 1;
+    transition: none;
+  }
+}
 html { min-width: 320px; }
 body {
   min-height: 100vh;

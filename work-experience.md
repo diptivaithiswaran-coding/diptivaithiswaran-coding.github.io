@@ -5,10 +5,16 @@ permalink: /work-experience/
 page_class: work-page
 ---
 
+<section markdown="1">
+
 # Work Experience
 
 My work across product strategy, customer research, cross-functional delivery, and content creation.
 {: .lede}
+
+</section>
+
+<section markdown="1">
 
 ## Another
 
@@ -31,6 +37,10 @@ June–August 2026 · Summer internship · Manhattan, NY
 ### User research & customer insight
 
 - Planned and led the GotMine Creators Breakfast focus group. Feedback highlighted transparent commissions, easier linking, and analytics, and informed the product roadmap.
+
+</section>
+
+<section markdown="1">
 
 ## Visa
 
@@ -61,6 +71,10 @@ June–August 2026 · Summer internship · Manhattan, NY
 - Directed API onboarding for 50+ EU clients as their single point of contact, hosting office hours and coordinating cross-functional support to resolve blockers and accelerate adoption.
 - Created and led APM Info Sessions, connecting 40+ associate product managers with product teams to help them make more informed career decisions.
 
+</section>
+
+<section markdown="1">
+
 ## Content Creation
 
 2022–present · San Francisco, CA
@@ -72,3 +86,5 @@ June–August 2026 · Summer internship · Manhattan, NY
 - Tested content formats, hashtags, posting times, and audio to grow an audience to 6,000+ within a year.
 - Built partnerships with ten brands through outreach and content, then ran cross-promotional campaigns to expand reach and brand awareness.
 - Walked the runway at **Los Angeles Fashion Week (LAFW)** and was featured in **Voyage ATL magazine**.
+
+</section>
